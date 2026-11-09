@@ -7,3 +7,7 @@ People get hit with overdraft fees, failed payments and stress because rent, bil
 > "Will I make it to payday - and if not, why?"
 
 ## Features
+| Feature | Description |
+| :--- | :---: | 
+| 30-day balance forecast | Most likely balance per day, with an uncertainty range  | 
+| Overdraft risk alert | Probability of dropping below $0, and which paymentscause it | 
