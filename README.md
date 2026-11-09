@@ -15,3 +15,12 @@ People get hit with overdraft fees, failed payments and stress because rent, bil
 | Upcoming bills calendar | Recurring payments detected automatically, with next expected date |
 | What-if simulator | "If I buy this $300 thing today, what happens?" |
 | Synthetic data personas | Realistic fake financial profiles for demo and testing |
+
+## Tech Stack
+* **Language:** Python 3.12
+* **Data & modelling:** pandas, NumPy,scikit-learn, statsmodels
+* **Backend:** FastAPI
+* **Database:** SQLite (dev) &rarr; PostgreSQL (prod)
+* **Frontend:** Streamlit
+* **Testing/CI:** pytest, GitHub Actions
+* **Deployment:** Docker + Render/Fly.io
