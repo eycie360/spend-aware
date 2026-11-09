@@ -10,4 +10,8 @@ People get hit with overdraft fees, failed payments and stress because rent, bil
 | Feature | Description |
 | :--- | :---: | 
 | 30-day balance forecast | Most likely balance per day, with an uncertainty range  | 
-| Overdraft risk alert | Probability of dropping below $0, and which paymentscause it | 
+| Overdraft risk alert | Probability of dropping below $0, and which payments cause it | 
+| Safe-to-spend today | How much you can spend without putting upcoming bills at risk |
+| Upcoming bills calendar | Recurring payments detected automatically, with next expected date |
+| What-if simulator | "If I buy this $300 thing today, what happens?" |
+| Synthetic data personas | Realistic fake financial profiles for demo and testing |
