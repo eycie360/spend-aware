@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "spend-aware"
 version = "0.1.0"
 description = "Forward-looking cash-flow forecaster: will I make it to payday?"
-requires-python = ">=3.12"
+requires-python = ">=3.13.7"
 dependencies = [
     "pandas>=2.2",
     "numpy>=1.26",
