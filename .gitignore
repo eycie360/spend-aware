@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Secrets and local data: NEVER commit these
+.env
+data/raw/
+*.sqlite
+*.db
+
+# OS / editor
+.DS_Store
+.vscode/
