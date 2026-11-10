@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "spend-aware"
+version = "0.1.0"
+description = "Forward-looking cash-flow forecaster: will I make it to payday?"
+requires-python = ">=3.13.7"
+dependencies = [
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "pydantic>=2.6",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8",
+    "pytest-cov>=5",
+    "ruff>=0.5",
+    "jupyterlab>=4",
+    "matplotlib>=3.8",
+]
+
+[tool.setuptools.packages.find]
+include = ["spend_aware*"]      # don't try to package tests/, app/, notebooks/
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]   # errors, pyflakes, import sorting, bugbear, pyupgrade
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
