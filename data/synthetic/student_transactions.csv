@@ -1,0 +1,219 @@
+id,account_id,date,amount,description,merchant,category
+student-00000,student-acc,2025-01-01,-230.0,RENT FLAT 3 REF 3666,Tenancy Services,rent
+student-00001,student-acc,2025-01-02,687.34,CAFE CO LTD WAGES 6545,Cafe Payroll,income
+student-00002,student-acc,2025-01-04,-52.51,COUNTDOWN 2302 AUCKLAND,Countdown,groceries
+student-00003,student-acc,2025-01-04,-43.07,COUNTDOWN 6218 AUCKLAND,Countdown,groceries
+student-00004,student-acc,2025-01-05,-11.96,UBER *EATS N9KM6N AUCKLAND,Uber Eats,takeaways
+student-00005,student-acc,2025-01-06,-31.76,COUNTDOWN 5150 AUCKLAND,Countdown,groceries
+student-00006,student-acc,2025-01-07,-6.41,UBER *EATS IHVWXA AUCKLAND,Uber Eats,takeaways
+student-00007,student-acc,2025-01-08,-39.69,COUNTDOWN 1159 AUCKLAND,Countdown,groceries
+student-00008,student-acc,2025-01-08,-35.88,COUNTDOWN 5188 AUCKLAND,Countdown,groceries
+student-00009,student-acc,2025-01-08,-230.0,RENT FLAT 3 REF 9675,Tenancy Services,rent
+student-00010,student-acc,2025-01-09,-13.99,SPOTIFY PFRQFNI STOCKHOLM,Spotify,subscriptions
+student-00011,student-acc,2025-01-10,-55.95,COUNTDOWN 8862 AUCKLAND,Countdown,groceries
+student-00012,student-acc,2025-01-11,-24.02,COUNTDOWN 0944 AUCKLAND,Countdown,groceries
+student-00013,student-acc,2025-01-11,-19.64,UBER *EATS KJ2V2W AUCKLAND,Uber Eats,takeaways
+student-00014,student-acc,2025-01-13,-14.25,UBER *EATS PQGGUL AUCKLAND,Uber Eats,takeaways
+student-00015,student-acc,2025-01-14,-32.59,COUNTDOWN 3672 AUCKLAND,Countdown,groceries
+student-00016,student-acc,2025-01-15,-27.07,COUNTDOWN 5993 AUCKLAND,Countdown,groceries
+student-00017,student-acc,2025-01-15,-230.0,RENT FLAT 3 REF 0763,Tenancy Services,rent
+student-00018,student-acc,2025-01-15,-15.3,UBER *EATS DFB780 AUCKLAND,Uber Eats,takeaways
+student-00019,student-acc,2025-01-16,705.39,CAFE CO LTD WAGES 4388,Cafe Payroll,income
+student-00020,student-acc,2025-01-16,-42.33,COUNTDOWN 2296 AUCKLAND,Countdown,groceries
+student-00021,student-acc,2025-01-16,-35.3,COUNTDOWN 1742 AUCKLAND,Countdown,groceries
+student-00022,student-acc,2025-01-18,-36.8,COUNTDOWN 9275 AUCKLAND,Countdown,groceries
+student-00023,student-acc,2025-01-20,-30.0,ONE NZ PREPAY LYDGV2 AUCKLAND,One NZ,phone
+student-00024,student-acc,2025-01-21,-23.15,COUNTDOWN 6942 AUCKLAND,Countdown,groceries
+student-00025,student-acc,2025-01-22,-230.0,RENT FLAT 3 REF 4695,Tenancy Services,rent
+student-00026,student-acc,2025-01-24,-33.26,COUNTDOWN 1322 AUCKLAND,Countdown,groceries
+student-00027,student-acc,2025-01-25,-35.41,COUNTDOWN 4885 AUCKLAND,Countdown,groceries
+student-00028,student-acc,2025-01-26,-40.9,COUNTDOWN 1482 AUCKLAND,Countdown,groceries
+student-00029,student-acc,2025-01-29,-230.0,RENT FLAT 3 REF 6864,Tenancy Services,rent
+student-00030,student-acc,2025-01-30,713.09,CAFE CO LTD WAGES 2014,Cafe Payroll,income
+student-00031,student-acc,2025-01-30,-27.48,COUNTDOWN 6339 AUCKLAND,Countdown,groceries
+student-00032,student-acc,2025-01-31,-30.23,COUNTDOWN 8469 AUCKLAND,Countdown,groceries
+student-00033,student-acc,2025-02-02,-35.31,COUNTDOWN 0178 AUCKLAND,Countdown,groceries
+student-00034,student-acc,2025-02-02,-25.48,COUNTDOWN 9332 AUCKLAND,Countdown,groceries
+student-00035,student-acc,2025-02-02,-15.5,UBER *EATS DJRBLO AUCKLAND,Uber Eats,takeaways
+student-00036,student-acc,2025-02-05,-230.0,RENT FLAT 3 REF 4757,Tenancy Services,rent
+student-00037,student-acc,2025-02-08,-81.08,COUNTDOWN 8677 AUCKLAND,Countdown,groceries
+student-00038,student-acc,2025-02-10,-13.99,SPOTIFY PKVN8DM STOCKHOLM,Spotify,subscriptions
+student-00039,student-acc,2025-02-11,-24.49,COUNTDOWN 4754 AUCKLAND,Countdown,groceries
+student-00040,student-acc,2025-02-12,-230.0,RENT FLAT 3 REF 9403,Tenancy Services,rent
+student-00041,student-acc,2025-02-12,-11.02,UBER *EATS P5ZGFV AUCKLAND,Uber Eats,takeaways
+student-00042,student-acc,2025-02-13,622.26,CAFE CO LTD WAGES 0941,Cafe Payroll,income
+student-00043,student-acc,2025-02-13,-34.26,COUNTDOWN 5944 AUCKLAND,Countdown,groceries
+student-00044,student-acc,2025-02-14,-32.68,COUNTDOWN 5774 AUCKLAND,Countdown,groceries
+student-00045,student-acc,2025-02-14,-22.46,UBER *EATS B3BFDZ AUCKLAND,Uber Eats,takeaways
+student-00046,student-acc,2025-02-15,80.0,IRD TAX REFUND AFC4J3,IRD,refund
+student-00047,student-acc,2025-02-19,-230.0,RENT FLAT 3 REF 4371,Tenancy Services,rent
+student-00048,student-acc,2025-02-20,-30.0,ONE NZ PREPAY G9UQMW AUCKLAND,One NZ,phone
+student-00049,student-acc,2025-02-25,-42.01,COUNTDOWN 1536 AUCKLAND,Countdown,groceries
+student-00050,student-acc,2025-02-26,-230.0,RENT FLAT 3 REF 4352,Tenancy Services,rent
+student-00051,student-acc,2025-02-26,-36.19,UBER *EATS W69CN0 AUCKLAND,Uber Eats,takeaways
+student-00052,student-acc,2025-02-27,680.18,CAFE CO LTD WAGES 7174,Cafe Payroll,income
+student-00053,student-acc,2025-03-05,-230.0,RENT FLAT 3 REF 8047,Tenancy Services,rent
+student-00054,student-acc,2025-03-07,-44.58,COUNTDOWN 6893 AUCKLAND,Countdown,groceries
+student-00055,student-acc,2025-03-08,-41.21,COUNTDOWN 0991 AUCKLAND,Countdown,groceries
+student-00056,student-acc,2025-03-08,-38.17,COUNTDOWN 7390 AUCKLAND,Countdown,groceries
+student-00057,student-acc,2025-03-08,-33.69,COUNTDOWN 1345 AUCKLAND,Countdown,groceries
+student-00058,student-acc,2025-03-10,-13.99,SPOTIFY PEN6RZQ STOCKHOLM,Spotify,subscriptions
+student-00059,student-acc,2025-03-11,-34.37,COUNTDOWN 6861 AUCKLAND,Countdown,groceries
+student-00060,student-acc,2025-03-12,-230.0,RENT FLAT 3 REF 2395,Tenancy Services,rent
+student-00061,student-acc,2025-03-13,674.32,CAFE CO LTD WAGES 7860,Cafe Payroll,income
+student-00062,student-acc,2025-03-19,-230.0,RENT FLAT 3 REF 6824,Tenancy Services,rent
+student-00063,student-acc,2025-03-20,-30.0,ONE NZ PREPAY VF8PRQ AUCKLAND,One NZ,phone
+student-00064,student-acc,2025-03-21,-16.28,UBER *EATS 3T9UVN AUCKLAND,Uber Eats,takeaways
+student-00065,student-acc,2025-03-22,-15.55,UBER *EATS EFWGJZ AUCKLAND,Uber Eats,takeaways
+student-00066,student-acc,2025-03-23,-57.41,COUNTDOWN 6395 AUCKLAND,Countdown,groceries
+student-00067,student-acc,2025-03-23,-43.92,COUNTDOWN 9604 AUCKLAND,Countdown,groceries
+student-00068,student-acc,2025-03-25,-38.37,COUNTDOWN 8485 AUCKLAND,Countdown,groceries
+student-00069,student-acc,2025-03-26,-230.0,RENT FLAT 3 REF 8048,Tenancy Services,rent
+student-00070,student-acc,2025-03-27,640.45,CAFE CO LTD WAGES 5003,Cafe Payroll,income
+student-00071,student-acc,2025-03-29,-38.42,COUNTDOWN 9525 AUCKLAND,Countdown,groceries
+student-00072,student-acc,2025-03-30,-12.22,UBER *EATS BGTSO1 AUCKLAND,Uber Eats,takeaways
+student-00073,student-acc,2025-04-02,-24.48,COUNTDOWN 6143 AUCKLAND,Countdown,groceries
+student-00074,student-acc,2025-04-02,-230.0,RENT FLAT 3 REF 0073,Tenancy Services,rent
+student-00075,student-acc,2025-04-03,-47.2,COUNTDOWN 9966 AUCKLAND,Countdown,groceries
+student-00076,student-acc,2025-04-03,-18.2,UBER *EATS Y7AB2M AUCKLAND,Uber Eats,takeaways
+student-00077,student-acc,2025-04-04,-24.09,COUNTDOWN 7951 AUCKLAND,Countdown,groceries
+student-00078,student-acc,2025-04-06,-18.39,UBER *EATS SQFM8J AUCKLAND,Uber Eats,takeaways
+student-00079,student-acc,2025-04-09,-13.99,SPOTIFY PJJ2JZ2 STOCKHOLM,Spotify,subscriptions
+student-00080,student-acc,2025-04-09,-230.0,RENT FLAT 3 REF 4715,Tenancy Services,rent
+student-00081,student-acc,2025-04-09,-7.58,UBER *EATS G50X5X AUCKLAND,Uber Eats,takeaways
+student-00082,student-acc,2025-04-10,706.5,CAFE CO LTD WAGES 3707,Cafe Payroll,income
+student-00083,student-acc,2025-04-12,-67.31,COUNTDOWN 2357 AUCKLAND,Countdown,groceries
+student-00084,student-acc,2025-04-13,-21.1,COUNTDOWN 5995 AUCKLAND,Countdown,groceries
+student-00085,student-acc,2025-04-16,-230.0,RENT FLAT 3 REF 7051,Tenancy Services,rent
+student-00086,student-acc,2025-04-17,-55.18,COUNTDOWN 7382 AUCKLAND,Countdown,groceries
+student-00087,student-acc,2025-04-18,-27.38,COUNTDOWN 8983 AUCKLAND,Countdown,groceries
+student-00088,student-acc,2025-04-21,-30.0,ONE NZ PREPAY 2JRYRP AUCKLAND,One NZ,phone
+student-00089,student-acc,2025-04-22,-35.79,COUNTDOWN 1279 AUCKLAND,Countdown,groceries
+student-00090,student-acc,2025-04-23,-230.0,RENT FLAT 3 REF 5056,Tenancy Services,rent
+student-00091,student-acc,2025-04-23,-32.4,UBER *EATS N75WOW AUCKLAND,Uber Eats,takeaways
+student-00092,student-acc,2025-04-24,677.67,CAFE CO LTD WAGES 4024,Cafe Payroll,income
+student-00093,student-acc,2025-04-24,-50.88,COUNTDOWN 7296 AUCKLAND,Countdown,groceries
+student-00094,student-acc,2025-04-26,-87.13,COUNTDOWN 4781 AUCKLAND,Countdown,groceries
+student-00095,student-acc,2025-04-26,-34.77,COUNTDOWN 5882 AUCKLAND,Countdown,groceries
+student-00096,student-acc,2025-04-26,-18.11,COUNTDOWN 0323 AUCKLAND,Countdown,groceries
+student-00097,student-acc,2025-04-28,-23.59,UBER *EATS LMNNO1 AUCKLAND,Uber Eats,takeaways
+student-00098,student-acc,2025-04-29,-20.95,COUNTDOWN 6860 AUCKLAND,Countdown,groceries
+student-00099,student-acc,2025-04-30,-230.0,RENT FLAT 3 REF 5687,Tenancy Services,rent
+student-00100,student-acc,2025-05-02,-22.44,COUNTDOWN 3909 AUCKLAND,Countdown,groceries
+student-00101,student-acc,2025-05-02,-9.76,UBER *EATS ER1V5M AUCKLAND,Uber Eats,takeaways
+student-00102,student-acc,2025-05-03,-44.24,COUNTDOWN 9970 AUCKLAND,Countdown,groceries
+student-00103,student-acc,2025-05-05,-39.38,COUNTDOWN 6233 AUCKLAND,Countdown,groceries
+student-00104,student-acc,2025-05-06,-29.01,COUNTDOWN 0904 AUCKLAND,Countdown,groceries
+student-00105,student-acc,2025-05-07,-230.0,RENT FLAT 3 REF 4396,Tenancy Services,rent
+student-00106,student-acc,2025-05-08,693.93,CAFE CO LTD WAGES 8227,Cafe Payroll,income
+student-00107,student-acc,2025-05-08,-32.47,COUNTDOWN 2889 AUCKLAND,Countdown,groceries
+student-00108,student-acc,2025-05-09,-13.99,SPOTIFY PQCDQ6E STOCKHOLM,Spotify,subscriptions
+student-00109,student-acc,2025-05-10,-8.25,UBER *EATS K5DIJE AUCKLAND,Uber Eats,takeaways
+student-00110,student-acc,2025-05-13,-16.06,COUNTDOWN 6562 AUCKLAND,Countdown,groceries
+student-00111,student-acc,2025-05-14,-230.0,RENT FLAT 3 REF 6684,Tenancy Services,rent
+student-00112,student-acc,2025-05-14,-26.77,UBER *EATS WOTSFC AUCKLAND,Uber Eats,takeaways
+student-00113,student-acc,2025-05-14,-18.7,UBER *EATS KPD340 AUCKLAND,Uber Eats,takeaways
+student-00114,student-acc,2025-05-14,-14.27,UBER *EATS JQFD4N AUCKLAND,Uber Eats,takeaways
+student-00115,student-acc,2025-05-15,-40.24,COUNTDOWN 8461 AUCKLAND,Countdown,groceries
+student-00116,student-acc,2025-05-16,-28.33,COUNTDOWN 6981 AUCKLAND,Countdown,groceries
+student-00117,student-acc,2025-05-20,-30.0,ONE NZ PREPAY 7TR3J8 AUCKLAND,One NZ,phone
+student-00118,student-acc,2025-05-21,-21.89,COUNTDOWN 0530 AUCKLAND,Countdown,groceries
+student-00119,student-acc,2025-05-21,-230.0,RENT FLAT 3 REF 0791,Tenancy Services,rent
+student-00120,student-acc,2025-05-22,640.2,CAFE CO LTD WAGES 0921,Cafe Payroll,income
+student-00121,student-acc,2025-05-22,-15.42,UBER *EATS V0DNJG AUCKLAND,Uber Eats,takeaways
+student-00122,student-acc,2025-05-24,-43.19,COUNTDOWN 1930 AUCKLAND,Countdown,groceries
+student-00123,student-acc,2025-05-27,-52.45,COUNTDOWN 3711 AUCKLAND,Countdown,groceries
+student-00124,student-acc,2025-05-28,-230.0,RENT FLAT 3 REF 7649,Tenancy Services,rent
+student-00125,student-acc,2025-05-29,-43.74,COUNTDOWN 0917 AUCKLAND,Countdown,groceries
+student-00126,student-acc,2025-06-02,-21.92,COUNTDOWN 5375 AUCKLAND,Countdown,groceries
+student-00127,student-acc,2025-06-04,-35.71,COUNTDOWN 6997 AUCKLAND,Countdown,groceries
+student-00128,student-acc,2025-06-04,-230.0,RENT FLAT 3 REF 0905,Tenancy Services,rent
+student-00129,student-acc,2025-06-04,-13.54,UBER *EATS 4LSKRQ AUCKLAND,Uber Eats,takeaways
+student-00130,student-acc,2025-06-05,636.17,CAFE CO LTD WAGES 5545,Cafe Payroll,income
+student-00131,student-acc,2025-06-09,-13.99,SPOTIFY PQZL3UT STOCKHOLM,Spotify,subscriptions
+student-00132,student-acc,2025-06-09,-31.13,UBER *EATS TFFNT8 AUCKLAND,Uber Eats,takeaways
+student-00133,student-acc,2025-06-11,-230.0,RENT FLAT 3 REF 5592,Tenancy Services,rent
+student-00134,student-acc,2025-06-13,-20.17,UBER *EATS HCQ8OT AUCKLAND,Uber Eats,takeaways
+student-00135,student-acc,2025-06-15,-4.27,UBER *EATS TNQ4F3 AUCKLAND,Uber Eats,takeaways
+student-00136,student-acc,2025-06-18,-230.0,RENT FLAT 3 REF 3474,Tenancy Services,rent
+student-00137,student-acc,2025-06-19,710.58,CAFE CO LTD WAGES 2767,Cafe Payroll,income
+student-00138,student-acc,2025-06-20,-30.0,ONE NZ PREPAY L4PKAN AUCKLAND,One NZ,phone
+student-00139,student-acc,2025-06-24,-16.1,UBER *EATS 71AT9K AUCKLAND,Uber Eats,takeaways
+student-00140,student-acc,2025-06-25,-230.0,RENT FLAT 3 REF 4367,Tenancy Services,rent
+student-00141,student-acc,2025-06-29,-24.75,COUNTDOWN 5296 AUCKLAND,Countdown,groceries
+student-00142,student-acc,2025-07-01,-11.35,UBER *EATS KZQKXX AUCKLAND,Uber Eats,takeaways
+student-00143,student-acc,2025-07-02,-230.0,RENT FLAT 3 REF 9926,Tenancy Services,rent
+student-00144,student-acc,2025-07-03,667.51,CAFE CO LTD WAGES 6316,Cafe Payroll,income
+student-00145,student-acc,2025-07-03,-35.21,COUNTDOWN 6260 AUCKLAND,Countdown,groceries
+student-00146,student-acc,2025-07-03,-28.23,COUNTDOWN 2459 AUCKLAND,Countdown,groceries
+student-00147,student-acc,2025-07-03,-18.28,UBER *EATS VDY94V AUCKLAND,Uber Eats,takeaways
+student-00148,student-acc,2025-07-03,-120.0,WAREHOUSE STATIONERY 3422,Warehouse Stationery,one_off
+student-00149,student-acc,2025-07-04,-46.77,COUNTDOWN 3144 AUCKLAND,Countdown,groceries
+student-00150,student-acc,2025-07-05,-21.05,UBER *EATS BQT1XG AUCKLAND,Uber Eats,takeaways
+student-00151,student-acc,2025-07-06,-33.76,COUNTDOWN 5652 AUCKLAND,Countdown,groceries
+student-00152,student-acc,2025-07-06,-27.48,UBER *EATS KOO6UF AUCKLAND,Uber Eats,takeaways
+student-00153,student-acc,2025-07-08,-16.41,UBER *EATS ZOMZOQ AUCKLAND,Uber Eats,takeaways
+student-00154,student-acc,2025-07-09,-13.99,SPOTIFY PGA1RZX STOCKHOLM,Spotify,subscriptions
+student-00155,student-acc,2025-07-09,-230.0,RENT FLAT 3 REF 8534,Tenancy Services,rent
+student-00156,student-acc,2025-07-11,-61.42,COUNTDOWN 3341 AUCKLAND,Countdown,groceries
+student-00157,student-acc,2025-07-16,-44.34,COUNTDOWN 7054 AUCKLAND,Countdown,groceries
+student-00158,student-acc,2025-07-16,-30.57,COUNTDOWN 1440 AUCKLAND,Countdown,groceries
+student-00159,student-acc,2025-07-16,-230.0,RENT FLAT 3 REF 8556,Tenancy Services,rent
+student-00160,student-acc,2025-07-17,647.42,CAFE CO LTD WAGES 0679,Cafe Payroll,income
+student-00161,student-acc,2025-07-21,-30.0,ONE NZ PREPAY 3TFKTL AUCKLAND,One NZ,phone
+student-00162,student-acc,2025-07-23,-230.0,RENT FLAT 3 REF 2813,Tenancy Services,rent
+student-00163,student-acc,2025-07-24,-60.8,COUNTDOWN 1415 AUCKLAND,Countdown,groceries
+student-00164,student-acc,2025-07-24,-27.14,COUNTDOWN 6509 AUCKLAND,Countdown,groceries
+student-00165,student-acc,2025-07-26,-21.14,UBER *EATS PTZ18U AUCKLAND,Uber Eats,takeaways
+student-00166,student-acc,2025-07-28,-66.07,COUNTDOWN 9189 AUCKLAND,Countdown,groceries
+student-00167,student-acc,2025-07-30,-21.22,COUNTDOWN 1506 AUCKLAND,Countdown,groceries
+student-00168,student-acc,2025-07-30,-230.0,RENT FLAT 3 REF 1262,Tenancy Services,rent
+student-00169,student-acc,2025-07-30,-13.9,UBER *EATS VTATOZ AUCKLAND,Uber Eats,takeaways
+student-00170,student-acc,2025-07-31,668.74,CAFE CO LTD WAGES 9706,Cafe Payroll,income
+student-00171,student-acc,2025-08-02,-11.72,UBER *EATS 54TZRP AUCKLAND,Uber Eats,takeaways
+student-00172,student-acc,2025-08-05,-11.72,UBER *EATS W79A09 AUCKLAND,Uber Eats,takeaways
+student-00173,student-acc,2025-08-06,-35.1,COUNTDOWN 4068 AUCKLAND,Countdown,groceries
+student-00174,student-acc,2025-08-06,-230.0,RENT FLAT 3 REF 5570,Tenancy Services,rent
+student-00175,student-acc,2025-08-07,-25.98,COUNTDOWN 6702 AUCKLAND,Countdown,groceries
+student-00176,student-acc,2025-08-10,-41.7,COUNTDOWN 6891 AUCKLAND,Countdown,groceries
+student-00177,student-acc,2025-08-11,-13.99,SPOTIFY PPFVDXW STOCKHOLM,Spotify,subscriptions
+student-00178,student-acc,2025-08-12,-25.76,COUNTDOWN 8520 AUCKLAND,Countdown,groceries
+student-00179,student-acc,2025-08-13,-230.0,RENT FLAT 3 REF 4091,Tenancy Services,rent
+student-00180,student-acc,2025-08-14,657.65,CAFE CO LTD WAGES 7598,Cafe Payroll,income
+student-00181,student-acc,2025-08-18,-28.37,COUNTDOWN 0085 AUCKLAND,Countdown,groceries
+student-00182,student-acc,2025-08-20,-30.0,ONE NZ PREPAY DEKIX0 AUCKLAND,One NZ,phone
+student-00183,student-acc,2025-08-20,-230.0,RENT FLAT 3 REF 4063,Tenancy Services,rent
+student-00184,student-acc,2025-08-21,-40.1,COUNTDOWN 3388 AUCKLAND,Countdown,groceries
+student-00185,student-acc,2025-08-27,-58.9,COUNTDOWN 9847 AUCKLAND,Countdown,groceries
+student-00186,student-acc,2025-08-27,-230.0,RENT FLAT 3 REF 3342,Tenancy Services,rent
+student-00187,student-acc,2025-08-27,-18.27,UBER *EATS 1APOW5 AUCKLAND,Uber Eats,takeaways
+student-00188,student-acc,2025-08-28,696.56,CAFE CO LTD WAGES 1946,Cafe Payroll,income
+student-00189,student-acc,2025-08-28,-24.62,COUNTDOWN 7614 AUCKLAND,Countdown,groceries
+student-00190,student-acc,2025-08-28,-15.85,UBER *EATS 7V2IJR AUCKLAND,Uber Eats,takeaways
+student-00191,student-acc,2025-08-29,-48.53,COUNTDOWN 5071 AUCKLAND,Countdown,groceries
+student-00192,student-acc,2025-09-02,-72.51,COUNTDOWN 7324 AUCKLAND,Countdown,groceries
+student-00193,student-acc,2025-09-02,-20.57,COUNTDOWN 2977 AUCKLAND,Countdown,groceries
+student-00194,student-acc,2025-09-03,-50.29,COUNTDOWN 0409 AUCKLAND,Countdown,groceries
+student-00195,student-acc,2025-09-03,-230.0,RENT FLAT 3 REF 0227,Tenancy Services,rent
+student-00196,student-acc,2025-09-05,-30.37,COUNTDOWN 6498 AUCKLAND,Countdown,groceries
+student-00197,student-acc,2025-09-07,-44.06,COUNTDOWN 0848 AUCKLAND,Countdown,groceries
+student-00198,student-acc,2025-09-07,-20.32,COUNTDOWN 9531 AUCKLAND,Countdown,groceries
+student-00199,student-acc,2025-09-07,-30.34,UBER *EATS 5E9LLK AUCKLAND,Uber Eats,takeaways
+student-00200,student-acc,2025-09-07,-20.2,UBER *EATS QGPHBN AUCKLAND,Uber Eats,takeaways
+student-00201,student-acc,2025-09-09,-13.99,SPOTIFY PD2BGRG STOCKHOLM,Spotify,subscriptions
+student-00202,student-acc,2025-09-10,-230.0,RENT FLAT 3 REF 6967,Tenancy Services,rent
+student-00203,student-acc,2025-09-11,689.8,CAFE CO LTD WAGES 5465,Cafe Payroll,income
+student-00204,student-acc,2025-09-11,-23.52,COUNTDOWN 0486 AUCKLAND,Countdown,groceries
+student-00205,student-acc,2025-09-12,-29.98,COUNTDOWN 1019 AUCKLAND,Countdown,groceries
+student-00206,student-acc,2025-09-13,-41.29,COUNTDOWN 6218 AUCKLAND,Countdown,groceries
+student-00207,student-acc,2025-09-14,-30.86,COUNTDOWN 6998 AUCKLAND,Countdown,groceries
+student-00208,student-acc,2025-09-17,-94.43,COUNTDOWN 8956 AUCKLAND,Countdown,groceries
+student-00209,student-acc,2025-09-17,-230.0,RENT FLAT 3 REF 4618,Tenancy Services,rent
+student-00210,student-acc,2025-09-22,-46.22,COUNTDOWN 6750 AUCKLAND,Countdown,groceries
+student-00211,student-acc,2025-09-22,-30.0,ONE NZ PREPAY 0LDW69 AUCKLAND,One NZ,phone
+student-00212,student-acc,2025-09-24,-35.57,COUNTDOWN 1193 AUCKLAND,Countdown,groceries
+student-00213,student-acc,2025-09-24,-33.14,COUNTDOWN 3419 AUCKLAND,Countdown,groceries
+student-00214,student-acc,2025-09-24,-230.0,RENT FLAT 3 REF 9380,Tenancy Services,rent
+student-00215,student-acc,2025-09-25,692.45,CAFE CO LTD WAGES 1542,Cafe Payroll,income
+student-00216,student-acc,2025-09-25,-19.99,COUNTDOWN 5748 AUCKLAND,Countdown,groceries
+student-00217,student-acc,2025-09-27,-35.16,COUNTDOWN 1030 AUCKLAND,Countdown,groceries
